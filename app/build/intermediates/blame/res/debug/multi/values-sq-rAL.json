@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq-rAL\\values-sq-rAL.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 109,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 109,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 97,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 97,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 86,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 86,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 101,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 350,
+                        "endColumn": 101,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 108,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 108,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 95,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 95,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 93,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 93,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 91,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 91,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endColumn": 93,
+                    "endOffset": 932
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 843,
+                        "endColumn": 93,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 937,
+                    "endColumn": 117,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 937,
+                        "endColumn": 117,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 114,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 114,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 83,
+                    "endOffset": 1249
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 83,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1254,
+                    "endColumn": 80,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1254,
+                        "endColumn": 80,
+                        "endOffset": 1330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 95,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1335,
+                        "endColumn": 95,
+                        "endOffset": 1426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 86,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1431,
+                        "endColumn": 86,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 94,
+                    "endOffset": 1608
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-sq-rAL\\values-sq-rAL.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1518,
+                        "endColumn": 94,
+                        "endOffset": 1608
+                    }
+                }
+            }
+        ]
+    }
+]

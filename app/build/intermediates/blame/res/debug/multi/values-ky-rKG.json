@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky-rKG\\values-ky-rKG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 117,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 117,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 98,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 98,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 91,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 91,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 97,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endColumn": 97,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 112,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 112,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 95,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 95,
+                        "endOffset": 666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 97,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 97,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 91,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 91,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 99,
+                    "endOffset": 956
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 99,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 105,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 105,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 121,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 121,
+                        "endOffset": 1184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 86,
+                    "endOffset": 1271
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1189,
+                        "endColumn": 86,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1276,
+                    "endColumn": 83,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1276,
+                        "endColumn": 83,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 106,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1360,
+                        "endColumn": 106,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 84,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endColumn": 84,
+                        "endOffset": 1547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 95,
+                    "endOffset": 1643
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1552,
+                        "endColumn": 95,
+                        "endOffset": 1643
+                    }
+                }
+            }
+        ]
+    }
+]

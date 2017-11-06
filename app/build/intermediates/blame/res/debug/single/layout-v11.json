@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\1e3fbf429f0ea67233182bb6cd17941641ede93f\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\1e3fbf429f0ea67233182bb6cd17941641ede93f\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\1e3fbf429f0ea67233182bb6cd17941641ede93f\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\1e3fbf429f0ea67233182bb6cd17941641ede93f\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\1e3fbf429f0ea67233182bb6cd17941641ede93f\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\1e3fbf429f0ea67233182bb6cd17941641ede93f\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    }
+]

@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr-rIN\\values-mr-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 97,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 98,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 98,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endColumn": 88,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 88,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 91,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 91,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 110,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 110,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 97,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 97,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 98,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 642,
+                        "endColumn": 98,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 99,
+                    "endOffset": 836
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 99,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 841,
+                    "endColumn": 96,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 96,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 116,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 116,
+                        "endOffset": 1050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endColumn": 108,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1055,
+                        "endColumn": 108,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1164,
+                    "endColumn": 83,
+                    "endOffset": 1243
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 83,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1248,
+                    "endColumn": 84,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1248,
+                        "endColumn": 84,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 94,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1333,
+                        "endColumn": 94,
+                        "endOffset": 1423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 85,
+                    "endOffset": 1509
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1428,
+                        "endColumn": 85,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1514,
+                    "endColumn": 96,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-mr-rIN\\values-mr-rIN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1514,
+                        "endColumn": 96,
+                        "endOffset": 1606
+                    }
+                }
+            }
+        ]
+    }
+]

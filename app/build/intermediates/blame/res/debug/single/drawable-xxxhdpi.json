@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_light.png",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\ec61dd753ed492a030d66758b64ec4399ec61f2e\\output\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_clear.png",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\ec61dd753ed492a030d66758b64ec4399ec61f2e\\output\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_person_pin_black_24dp.png",
+        "source": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_person_pin_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_search.png",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\ec61dd753ed492a030d66758b64ec4399ec61f2e\\output\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Maciej\\.android\\build-cache\\ec61dd753ed492a030d66758b64ec4399ec61f2e\\output\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    }
+]

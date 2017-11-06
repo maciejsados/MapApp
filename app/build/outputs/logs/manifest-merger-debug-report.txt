@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#com.google.android.providers.gsf.permisson.READ_GSERVICES
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:9:5-96
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:9:22-94
+application
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:12:5-30:19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\Maciej\.android\build-cache\4b6208ce6a50c5ab2f77dd4567ce6ccd9ccb10f5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\Maciej\.android\build-cache\8e17ca730d68af6c21b02147fffc856e989d1f90\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Maciej\.android\build-cache\c1e7aadff2f1809cb14863f8b740d149354f8c57\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Maciej\.android\build-cache\ba9c28a2c71311ab5766c7d21df2025b8d379386\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Maciej\.android\build-cache\5a39561f5877aa0a420124835fa4d758d168b4db\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\1e3fbf429f0ea67233182bb6cd17941641ede93f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\8a54c1abd77f646f5af80a20846ea0774c8f26f6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99fa8bb834d2cbc6ea5a897187d9fb8606a5a8c5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\07b91b1e6c5c4ab3d8bf22f9e2cc9525c6a859ef\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\876163eaf3904af7bd71a1141ae3edb1b3fbe4c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\43df7305f37dc31705550a8ebdde5f96c520941b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\ef39d2699613b11bbd501cca9483e78ad959cee2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\232b6f2c04ed74713bb7e83289e5bafee459d88e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\6e3e684993804ede1fbb898e65968720a194a4d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\d2cd84072e10d76e68f1562e638751fd230988f4\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:19:9-20:70
+	android:value
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:20:13-68
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:19:20-65
+activity#maciej.example.com.findpalcesapp.MainActivity
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:22:13-48
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\Maciej\.android\build-cache\4b6208ce6a50c5ab2f77dd4567ce6ccd9ccb10f5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\Maciej\.android\build-cache\8e17ca730d68af6c21b02147fffc856e989d1f90\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Maciej\.android\build-cache\c1e7aadff2f1809cb14863f8b740d149354f8c57\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Maciej\.android\build-cache\ba9c28a2c71311ab5766c7d21df2025b8d379386\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Maciej\.android\build-cache\5a39561f5877aa0a420124835fa4d758d168b4db\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\1e3fbf429f0ea67233182bb6cd17941641ede93f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\8a54c1abd77f646f5af80a20846ea0774c8f26f6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99fa8bb834d2cbc6ea5a897187d9fb8606a5a8c5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\15132688b7824a419328492a2da893c739f2113d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\07b91b1e6c5c4ab3d8bf22f9e2cc9525c6a859ef\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\876163eaf3904af7bd71a1141ae3edb1b3fbe4c6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\43df7305f37dc31705550a8ebdde5f96c520941b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\ef39d2699613b11bbd501cca9483e78ad959cee2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\232b6f2c04ed74713bb7e83289e5bafee459d88e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\6e3e684993804ede1fbb898e65968720a194a4d5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\d2cd84072e10d76e68f1562e638751fd230988f4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Maciej\.android\build-cache\ba9c28a2c71311ab5766c7d21df2025b8d379386\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Maciej\.android\build-cache\ba9c28a2c71311ab5766c7d21df2025b8d379386\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Maciej\.android\build-cache\ba9c28a2c71311ab5766c7d21df2025b8d379386\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\1e3fbf429f0ea67233182bb6cd17941641ede93f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\8a54c1abd77f646f5af80a20846ea0774c8f26f6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99fa8bb834d2cbc6ea5a897187d9fb8606a5a8c5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\15132688b7824a419328492a2da893c739f2113d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\07b91b1e6c5c4ab3d8bf22f9e2cc9525c6a859ef\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\876163eaf3904af7bd71a1141ae3edb1b3fbe4c6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\43df7305f37dc31705550a8ebdde5f96c520941b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\ef39d2699613b11bbd501cca9483e78ad959cee2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\232b6f2c04ed74713bb7e83289e5bafee459d88e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\6e3e684993804ede1fbb898e65968720a194a4d5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\d2cd84072e10d76e68f1562e638751fd230988f4\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\AndroidManifest.xml:26:9-47

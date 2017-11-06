@@ -1,0 +1,311 @@
+[
+    {
+        "outputFile": "C:\\Users\\Maciej\\Desktop\\GoogleNearbyPlaces\\FindPalcesApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gl-rES\\values-gl-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 100,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 100,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 83,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 83,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 98,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 98,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 106,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 106,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 96,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 96,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 95,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 95,
+                        "endOffset": 738
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 94,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 743,
+                        "endColumn": 94,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 92,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 838,
+                        "endColumn": 92,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 120,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 120,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 119,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 119,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 83,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 83,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 85,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 85,
+                        "endOffset": 1337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 92,
+                    "endOffset": 1430
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1342,
+                        "endColumn": 92,
+                        "endOffset": 1430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1435,
+                    "endColumn": 86,
+                    "endOffset": 1517
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1435,
+                        "endColumn": 86,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1522,
+                    "endColumn": 98,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "C:\\Users\\Maciej\\.android\\build-cache\\8843d59f2808ce1903779b44c6c15e460ed2bf20\\output\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1522,
+                        "endColumn": 98,
+                        "endOffset": 1616
+                    }
+                }
+            }
+        ]
+    }
+]

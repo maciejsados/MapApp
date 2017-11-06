@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="656f89405a7962f94aff9b7d967c32e3120fcc1a">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_01e05f184f72c764742246708e5ae26fab18db64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c9113dfa556e50fefe21c2b74ec663c2cb8ecf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\4b6208ce6a50c5ab2f77dd4567ce6ccd9ccb10f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d491cf9756e4585ac436c228372aecdb885a637\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\4b6208ce6a50c5ab2f77dd4567ce6ccd9ccb10f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_9d491cf9756e4585ac436c228372aecdb885a637.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\c1e7aadff2f1809cb14863f8b740d149354f8c57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d044adaf3343c501ffdbda81abdc8f9b466d83f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\07b91b1e6c5c4ab3d8bf22f9e2cc9525c6a859ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d0ddfc4c1a73944c246f6aa0f31997c6d923e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\c1e7aadff2f1809cb14863f8b740d149354f8c57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_3d044adaf3343c501ffdbda81abdc8f9b466d83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_568a4d874988c3ebc2c2cb10aa84a0673f37c9d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\07b91b1e6c5c4ab3d8bf22f9e2cc9525c6a859ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_5d0ddfc4c1a73944c246f6aa0f31997c6d923e13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\9e2f7677b11512d8c3b0fa81c347fa678ccac500\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_568a4d874988c3ebc2c2cb10aa84a0673f37c9d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\15132688b7824a419328492a2da893c739f2113d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_5fc7e569d31b70673ef143a34da80b2c1ab53335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\8e17ca730d68af6c21b02147fffc856e989d1f90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_9d0b26a24acbf3a711eadb335246d5bceada932f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\15132688b7824a419328492a2da893c739f2113d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fc7e569d31b70673ef143a34da80b2c1ab53335\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0332de74314be57d4e1597228f7809c01fd47a98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\ba9c28a2c71311ab5766c7d21df2025b8d379386\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ce5c485983ae13efabdcb0c8855f3bf1fa937a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\b26058d0d9acb13156e8ba4f29399b3bc6482c0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_5c9113dfa556e50fefe21c2b74ec663c2cb8ecf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\ba9c28a2c71311ab5766c7d21df2025b8d379386\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_9ce5c485983ae13efabdcb0c8855f3bf1fa937a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\.android\build-cache\8e17ca730d68af6c21b02147fffc856e989d1f90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d0b26a24acbf3a711eadb335246d5bceada932f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Maciej\.android\build-cache\99a9d9758bbd6d7ed37cda42a0729579eb2aca2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\pre-dexed\debug\classes_0332de74314be57d4e1597228f7809c01fd47a98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Maciej\Desktop\GoogleNearbyPlaces\FindPalcesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2a540e2b95b12e8246a980c876f119cf4ac72605\classes.dex" />
+    </item>
+
+</items>
